@@ -34,8 +34,8 @@ _$ = command line_
 
 - Sal aka cyberplanner (founder)
 - Victor aka 6eff (main collaborator)
+- Giancarlo aka Procras (main collaborator)
 - Francesco aka Frunez (main collaborator)
-- Procras aka Procras (main collaborator)
 
 ## Credits
 
